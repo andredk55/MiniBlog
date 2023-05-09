@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+}
+
+.fundo{
+
+    background-color: rgb(21, 61, 122);
+    color:white;
+}
+
+.titulo{
+    color: rgb(252, 101, 47);
+}
+.info{
+ color: white;
+}
+
+.imagem{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-color: rgb(27, 121, 197);
+    border-style: solid;
+    margin-left: 42%;
+    margin-right: 45%;
+    margin-top: 20px;
+}
+
+.projetos{
+    margin-top: 5px;
+    max-width: 400px;
+    max-height: 500px;
+}
+.fundo2{
+    background-color: rgb(27, 121, 197);
+    height: 40px;
+    text-align: left;
+    color: white;
+    padding-top: 10px;
+}
+
+.info{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.texto1{
+    margin-left: 10px;
+}
+
+.texto2{
+    margin-left: 10px;
+}
+
+.texto3{
+    margin-left: 10px;
+}
+
+.texto4{
+    margin-left: 10px;
+}
+
+#botao{
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(252, 101, 47);
+    margin-left: 630px;
+}
